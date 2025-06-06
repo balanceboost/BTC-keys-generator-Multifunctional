@@ -1,0 +1,8 @@
+bitcoinlib==0.6.13
+colorama==0.4.6
+requests==2.32.3
+pybloom-live==4.0.0
+pyfiglet==1.0.2
+tqdm==4.66.5
+aiohttp==3.10.5
+keyboard==0.13.5
