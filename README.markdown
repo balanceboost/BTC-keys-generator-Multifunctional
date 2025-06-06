@@ -171,5 +171,5 @@ This project is licensed under the [MIT License](LICENSE). See the `LICENSE` fil
 ## Disclaimer
 This tool is for **educational and research purposes only**. Misuse, including unauthorized access to Bitcoin wallets, is illegal and unethical. The authors are not liable for any damages or legal consequences resulting from the use of this software.
 
-## Contact
-For issues or questions, open an issue on GitHub or contact the maintainer at [your-email@example.com].
+    To support the author: TFbR9gXb5r6pcALasjX1FKBArbKc4xBjY8
+
