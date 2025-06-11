@@ -1,6 +1,5 @@
 # BTC Keys Generator
 ![2](https://github.com/user-attachments/assets/047f8df8-3c11-4646-9bbf-53ed752857dc)
-![4](https://github.com/user-attachments/assets/d175f953-5ef2-4260-a543-dc0404c890c0)
 
 A Python script for generating Bitcoin private keys using various methods, including random keys, mnemonic phrases, text-based inputs, and pattern-based approaches. Designed for **educational and research purposes only**, this tool can generate and check Bitcoin addresses against local files or blockchain APIs.
 
